@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Repositoty Link (https://github.com/Haleemah-Abosede/age-calculator-app-main)
-- Live Site URL: (https://haleemah-abosede.github.io/age-calculator-app-main/)
+- Solution URL: Repositoty Link (https://github.com/Haleemah-Abosede/ping-coming-soon-page-master)
+- Live Site URL: (https://haleemah-abosede.github.io/ping-coming-soon-page-master/)
 
 ## My process
 
